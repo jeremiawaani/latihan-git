@@ -2,4 +2,4 @@
 console.log("baris pertama");
 
 //kamis
-conslole.log("baris kedua");
+console.log("baris kedua");
